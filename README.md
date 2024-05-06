@@ -1,4 +1,4 @@
-# Code_Alpha_Expense_Tracker 💰
+# Expense_Tracker 💰
 
 Track your expenses effortlessly with the Expense Tracker web application!
 
